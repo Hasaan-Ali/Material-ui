@@ -8,10 +8,7 @@ import { useState } from "react";
 const Lesson6 = () => {
   const [formats, setFormats] = useState([]);
   console.log(formats);
-  const handleFormatChange = (
-    _event: React.MouseEvent<HTMLElement>,
-    updatedFormats: string[]
-  ) => {
+  const handleFormatChange = (_event, updatedFormats) => {
     setFormats(updatedFormats);
   };
   return (
