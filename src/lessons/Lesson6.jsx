@@ -4,7 +4,7 @@ import {
   FormatUnderlined,
 } from "@mui/icons-material";
 import { ToggleButtonGroup, ToggleButton, Stack } from "@mui/material";
-import React, { useState } from "react";
+import { useState } from "react";
 const Lesson6 = () => {
   const [formats, setFormats] = useState([]);
   console.log(formats);

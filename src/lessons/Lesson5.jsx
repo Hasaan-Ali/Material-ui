@@ -1,5 +1,4 @@
 import { Stack, Button, ButtonGroup } from "@mui/material";
-import SendIcon from "@mui/icons-material/Send";
 const Lesson5 = () => {
   return (
       <Stack direction="row">
