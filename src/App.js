@@ -6,11 +6,32 @@
 // import Lesson8 from "./lessons/Lesson8";
 // import Lesson9 from "./lessons/Lesson9";
 // import Lesson10 from "./lessons/Lesson10";
-// import Lesson11 from "./lessons/Lesson11";
+import Lesson11 from "./lessons/Lesson11";
 // import Lesson12 from "./lessons/Lesson12";
 // import Lesson13 from "./lessons/Lesson13";
 // import Lesson14 from "./lessons/Lesson14";
-import Lesson15 from "./lessons/Lesson15";
+// import Lesson15 from "./lessons/Lesson15";
+// import Lesson16 from "./lessons/Lesson16";
+// import Lesson17 from "./lessons/Lesson17";
+// import Lesson18 from "./lessons/Lesson18";
+// import Lesson19 from "./lessons/Lesson19";
+// import Lesson20 from "./lessons/Lesson20";
+// import Lesson21 from "./lessons/Lesson21";
+// import Lesson22 from "./lessons/Lesson22";
+// import Lesson23 from "./lessons/Lesson23";
+// import Lesson24 from "./lessons/Lesson24";
+// import Lesson25 from "./lessons/Lesson25";
+// import Lesson26 from "./lessons/Lesson26";
+// import Lesson27 from "./lessons/Lesson27";
+// import Lesson28 from "./lessons/Lesson28";
+
+// import Lesson29 from "./lessons/Lesson29";
+// import Lesson30 from "./lessons/Lesson30";
+// import Lesson31 from "./lessons/Lesson31";
+// import Lesson32 from "./lessons/Lesson32";
+import Lesson33 from "./lessons/Lesson33";
+import Lesson34 from "./lessons/Lesson34";
+import Lesson35 from "./lessons/Lesson35";
 
 function App() {
   return (
@@ -27,7 +48,27 @@ function App() {
       {/* <Lesson12 /> */}
       {/* <Lesson13 /> */}
       {/* <Lesson14 /> */}
-      <Lesson15 />
+      {/* <Lesson15 /> */}
+      {/* <Lesson16 /> */}
+      {/* <Lesson17 />  */}
+      {/* <Lesson18 /> */}
+      {/* <Lesson19 /> */}
+      {/* <Lesson20 /> */}
+      {/* <Lesson21 /> */}
+      {/* <Lesson22 /> */}
+      {/* <Lesson23 /> */}
+      {/* <Lesson24 /> */}
+      {/* <Lesson25 /> */}
+      {/* <Lesson26 /> */}
+      {/* <Lesson27 /> */}
+      {/* <Lesson28 /> */}
+      {/* <Lesson29 /> */}
+      {/* <Lesson30 /> */}
+      {/* <Lesson31 /> */}
+      {/* <Lesson32 /> */}
+      {/* <Lesson33 /> */}
+      {/* <Lesson34 /> */}
+      <Lesson35 />
     </div>
   );
 }
